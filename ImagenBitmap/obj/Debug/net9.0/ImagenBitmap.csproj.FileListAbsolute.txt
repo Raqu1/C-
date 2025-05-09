@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\bin\Debug\net9.0\ImagenBitmap.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\bin\Debug\net9.0\ImagenBitmap.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\bin\Debug\net9.0\ImagenBitmap.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\bin\Debug\net9.0\ImagenBitmap.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\bin\Debug\net9.0\ImagenBitmap.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\refint\ImagenBitmap.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ImagenBitmap.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre3\Proyectos\FicherosBinarios\ImagenBitmap\obj\Debug\net9.0\ref\ImagenBitmap.dll

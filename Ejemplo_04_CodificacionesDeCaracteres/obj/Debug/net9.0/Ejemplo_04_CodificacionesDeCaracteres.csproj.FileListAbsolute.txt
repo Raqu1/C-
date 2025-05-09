@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\bin\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\bin\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\bin\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\bin\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\bin\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\refint\Ejemplo_04_CodificacionesDeCaracteres.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\Ejemplo_04_CodificacionesDeCaracteres.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre3\Proyectos\Ficheros\Ejemplo_04_CodificacionesDeCaracteres\obj\Debug\net9.0\ref\Ejemplo_04_CodificacionesDeCaracteres.dll
