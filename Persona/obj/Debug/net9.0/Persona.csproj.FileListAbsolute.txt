@@ -1,0 +1,4 @@
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/Persona/obj/Debug/net9.0/Persona.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/Persona/obj/Debug/net9.0/Persona.AssemblyInfoInputs.cache
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/Persona/obj/Debug/net9.0/Persona.AssemblyInfo.cs
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/Persona/obj/Debug/net9.0/Persona.csproj.CoreCompileInputs.cache

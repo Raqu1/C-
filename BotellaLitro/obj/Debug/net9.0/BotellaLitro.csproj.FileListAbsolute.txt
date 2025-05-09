@@ -1,0 +1,14 @@
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/bin/Debug/net9.0/BotellaLitro
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/bin/Debug/net9.0/BotellaLitro.deps.json
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/bin/Debug/net9.0/BotellaLitro.runtimeconfig.json
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/bin/Debug/net9.0/BotellaLitro.dll
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/bin/Debug/net9.0/BotellaLitro.pdb
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.AssemblyInfoInputs.cache
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.AssemblyInfo.cs
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.csproj.CoreCompileInputs.cache
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.dll
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/refint/BotellaLitro.dll
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.pdb
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/BotellaLitro.genruntimeconfig.cache
+/Users/raquel/Desktop/❆/FP/DAW/1º/PRO/NuevosProyectos/OrientadoObjetos/BotellaLitro/obj/Debug/net9.0/ref/BotellaLitro.dll
